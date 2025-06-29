@@ -13,3 +13,4 @@
 *MENTOR*: NEELA SANTOSH
 
 ##DESCRIPTION:
+ USE :streamlit run TASK4.PY in terminal to run in app
